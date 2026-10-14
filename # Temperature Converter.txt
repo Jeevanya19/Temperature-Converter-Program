@@ -1,0 +1,45 @@
+# Temperature Converter
+
+## Description
+
+This Python program converts temperatures between Celsius, Fahrenheit, and Kelvin.
+
+## Objective
+
+- Practice Python functions.
+- Learn arithmetic operations.
+- Handle invalid inputs.
+- Understand temperature conversion formulas.
+
+## Tools Used
+
+- Python
+
+## Conversions Supported
+
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Kelvin to Celsius
+
+## Formulas
+
+- Celsius to Fahrenheit: `(C * 9/5) + 32`
+- Celsius to Kelvin: `C + 273.15`
+- Fahrenheit to Celsius: `(F - 32) * 5/9`
+- Kelvin to Celsius: `K - 273.15`
+
+## Sample Output
+
+```text
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Kelvin to Celsius
+Enter your choice: 1
+Enter temperature: 25
+Result: 77.0 F
+```
+
+##
